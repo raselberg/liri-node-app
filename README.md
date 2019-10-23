@@ -24,8 +24,6 @@ then an a movie title, song, or band name in relation to the command.
 
 Information should show up that includes information about your input. 
 
-
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/YB2HbMy" data-context="false" ><a href="//imgur.com/a/YB2HbMy"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+https://imgur.com/a/YB2HbMy
 
 I developed this app. 
